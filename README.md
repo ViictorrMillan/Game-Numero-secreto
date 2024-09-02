@@ -11,3 +11,5 @@ Este projeto é um jogo simples onde o jogador tenta adivinhar um número secret
   <li>Interface amigável e fácil de usar.</li>
   <li>Respostas por voz para interagir com o jogador.</li>
 </ul>
+
+ Você pode acessar o projeto implantado na Vercel através do link: [Jogo Do Número Secreto](https://vercel.com/viictorrmillans-projects/numerosecreto-one)
